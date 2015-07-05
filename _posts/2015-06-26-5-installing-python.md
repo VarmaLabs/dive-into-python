@@ -3,8 +3,8 @@ layout: post
 title: Installing Python
 order: 5
 author: kpvarma
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
-tags: [introduction, chapter-1]
+excerpt: "Know how to install python on Linux, MAC or Windows."
+tags: [introduction, chapter-2]
 comments: true
 share: true
 ---
@@ -43,7 +43,21 @@ You should add _C:\Python27_ to **PATH** environment variable if you want Python
 
 Starting from Python versions 2.7.9 and 3.4.0, pip is already included in the regular install, see matth's answer below. Check if the path to the Scripts directory inside your Python installation directory is contained in your system's PATH environment variable, so pip can be found.
 
+## Installing Python 3
 
+You can download the Python 3 package from [here](https://www.python.org/downloads/).
+
+Many system programs depends on Python 2 and not Python 3. Hence, it is not a good idea to make Python 3 as default.
+
+You can run a script in Python 3 explicitly.
+
+	python3 file.py
+
+It's not good to change the default python. Many system programs depends on python2 not python3. if you want to use python3, you just type the command python3.
+
+### References
 
 * [http://docs.python-guide.org/en/latest/starting/install/win/](http://docs.python-guide.org/en/latest/starting/install/win/)
 * [http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows](http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows)
+* [http://askubuntu.com/questions/320996/make-default-python-command-to-use-python-3](http://askubuntu.com/questions/320996/make-default-python-command-to-use-python-3)
+* [http://askubuntu.com/questions/103469/how-do-i-change-my-pythonpath-to-make-3-2-my-default-python-instead-of-2-7-2](http://askubuntu.com/questions/103469/how-do-i-change-my-pythonpath-to-make-3-2-my-default-python-instead-of-2-7-2)

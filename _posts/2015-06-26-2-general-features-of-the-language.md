@@ -1,6 +1,7 @@
 ---
 layout: post
 title: General Features of the Language
+excerpt: "Python is a general purpose, high level programming language. Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles."
 order: 2
 author: kpvarma
 tags: [introduction, chapter-1]

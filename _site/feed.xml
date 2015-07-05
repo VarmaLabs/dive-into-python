@@ -4,13 +4,102 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-06-30T11:07:49+05:30</updated>
+<updated>2015-06-30T14:34:30+05:30</updated>
 <id>/</id>
 <author>
   <name>Krishnaprasad Varma</name>
   <uri>/</uri>
   <email>krshnaprsad@gmail.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Which version should I learn? (Python 2.x or Python 3.x)]]></title>
+  <link rel="alternate" type="text/html" href="/6-python-2-or-python-3/" />
+  <id>/6-python-2-or-python-3</id>
+  <published>2015-06-27T00:00:00+05:30</published>
+  <updated>2015-06-27T00:00:00+05:30</updated>
+  <author>
+    <name>Krishnaprasad Varma</name>
+    <uri></uri>
+    <email>krshnaprsad@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;python-2x&quot;&gt;Python 2.x&lt;/h2&gt;
+
+&lt;p&gt;Python 2.0 was released on 16 October 2000, and included many major new features including a full garbage collector and support for Unicode. With this release the development process was changed and became more transparent and community-backed.&lt;/p&gt;
+
+&lt;h2 id=&quot;python-3x&quot;&gt;Python 3.x&lt;/h2&gt;
+
+&lt;p&gt;Python 3.0 (also called Python 3000 or py3k), a major, backwards-incompatible release, was released on 3 December 2008 after a long period of testing. Many of its major features have been backported to the backwards-compatible Python 2.6 and 2.7.&lt;/p&gt;
+
+&lt;table class=&quot;table table-condensed&quot;&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Python 2&lt;/th&gt;	
+		&lt;th&gt;Python 3&lt;/th&gt;	
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Legacy&lt;/td&gt;	
+		&lt;td&gt;The Future&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Permanently in maintenence&lt;/td&gt;	
+		&lt;td&gt;New features will get added&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Modules are made to work with the Python 2.x. &lt;br /&gt; (Some of the features are not portable to Python 3.x.)&lt;/td&gt;	
+		&lt;td&gt;Modules are written for both 2 and 3 &lt;br /&gt;(most of the packages are backward compatible)&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Very limited 3rd party module support &lt;/td&gt;	
+		&lt;td&gt;Abundant 3rd party libraries&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;More Documentation to get started&lt;/td&gt;	
+		&lt;td&gt;You will become an early adopter if you start using it now.&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Most of the machines comes with Python 2.7 installed. (Ubuntu &amp;amp; MAC)&lt;/td&gt;	
+		&lt;td&gt;You need to manually install Python 3.3&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Django users will recommend Python 2.x.&lt;/td&gt;	
+		&lt;td&gt;Django now &quot;experimentally&quot; supports Python 3.2&lt;/td&gt;	
+	&lt;/tr&gt;
+	
+&lt;/table&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Your main goal should be just to learn Python. Be it 2.7 or 3.3. Once you get a command over the language, understanding both versions will be a matter of time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It doesn’t really matter whether you use Python 2.7 or Python 3 If you do not use old features in Python 2.7, you can just 2to3 your code to make it run on Python 3.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I would recommend learning Python 3.x if you are a beginner.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*&lt;a href=&quot;https://wiki.python.org/moin/Python2orPython3&quot;&gt;https://wiki.python.org/moin/Python2orPython3&lt;/a&gt;
+* &lt;a href=&quot;http://learntocodewith.me/programming/python/python-2-vs-python-3/&quot;&gt;http://learntocodewith.me/programming/python/python-2-vs-python-3/&lt;/a&gt;
+* &lt;a href=&quot;http://programmers.stackexchange.com/questions/102999/should-we-use-python-2-6-or-2-7-or-3-x&quot;&gt;http://programmers.stackexchange.com/questions/102999/should-we-use-python-2-6-or-2-7-or-3-x&lt;/a&gt;
+* &lt;a href=&quot;https://www.youtube.com/watch?v=f_6vDi7ywuA&quot;&gt;https://www.youtube.com/watch?v=f_6vDi7ywuA&lt;/a&gt;
+* &lt;a href=&quot;http://www.quora.com/What-are-the-pros-and-cons-of-Python-2-7-6-versus-3-3/answer/Cameron-Macleod?srid=Xl5D&amp;amp;share=1&quot;&gt;http://www.quora.com/What-are-the-pros-and-cons-of-Python-2-7-6-versus-3-3/answer/Cameron-Macleod?srid=Xl5D&amp;amp;share=1&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/6-python-2-or-python-3/&quot;&gt;Which version should I learn? (Python 2.x or Python 3.x)&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;&quot;&gt;kpvarma.com&lt;/a&gt; on June 27, 2015.&lt;/p&gt;
+  </content>
+</entry>
 
 
   
@@ -63,9 +152,26 @@ _C:/Python26_ etc
 
 &lt;p&gt;Starting from Python versions 2.7.9 and 3.4.0, pip is already included in the regular install, see matth’s answer below. Check if the path to the Scripts directory inside your Python installation directory is contained in your system’s PATH environment variable, so pip can be found.&lt;/p&gt;
 
+&lt;h2 id=&quot;installing-python-3&quot;&gt;Installing Python 3&lt;/h2&gt;
+
+&lt;p&gt;You can download the Python 3 package from &lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Many system programs depends on Python 2 and not Python 3. Hence, it is not a good idea to make Python 3 as default.&lt;/p&gt;
+
+&lt;p&gt;You can run a script in Python 3 explicitly.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;python3 file.py
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It’s not good to change the default python. Many system programs depends on python2 not python3. if you want to use python3, you just type the command python3.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://docs.python-guide.org/en/latest/starting/install/win/&quot;&gt;http://docs.python-guide.org/en/latest/starting/install/win/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows&quot;&gt;http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://askubuntu.com/questions/320996/make-default-python-command-to-use-python-3&quot;&gt;http://askubuntu.com/questions/320996/make-default-python-command-to-use-python-3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://askubuntu.com/questions/103469/how-do-i-change-my-pythonpath-to-make-3-2-my-default-python-instead-of-2-7-2&quot;&gt;http://askubuntu.com/questions/103469/how-do-i-change-my-pythonpath-to-make-3-2-my-default-python-instead-of-2-7-2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;p&gt;&lt;a href=&quot;/5-installing-python/&quot;&gt;Installing Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;&quot;&gt;kpvarma.com&lt;/a&gt; on June 26, 2015.&lt;/p&gt;

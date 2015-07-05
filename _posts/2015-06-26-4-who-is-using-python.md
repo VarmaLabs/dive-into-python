@@ -3,7 +3,7 @@ layout: post
 title: Who is using Python?
 order: 4
 author: kpvarma
-excerpt: "A list of Internet organisations using Python."
+excerpt: "Know who uses python. A collection of internet companies primarily uses Python gathered from various blogs and articles."
 tags: [introduction, chapter-1]
 comments: true
 share: true

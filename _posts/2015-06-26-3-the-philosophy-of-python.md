@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Philosophy of Python
+excerpt: "Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex..."
 order: 3
 author: kpvarma
-excerpt: "Zen of Python"
 tags: [introduction, chapter-1]
 comments: true
 share: true

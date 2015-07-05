@@ -3,7 +3,7 @@ layout: post
 title: A Brief history of Python
 order: 1
 author: kpvarma
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Python was created by Guido van Rossum at CWI was originally developed for the Amoeba platform."
 tags: [introduction, chapter-1]
 comments: true
 share: true
