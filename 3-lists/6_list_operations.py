@@ -1,9 +1,3 @@
-len([1, 2, 3])	3	Length
-[1, 2, 3] + [4, 5, 6]	[1, 2, 3, 4, 5, 6]	Concatenation
-['Hi!'] * 4	['Hi!', 'Hi!', 'Hi!', 'Hi!']	Repetition
-3 in [1, 2, 3]	True	Membership
-for x in [1, 2, 3]: print x,	1 2 3	Iteration
-
 list_1 = ["Ram", 23, 6.2]
 
 # Length of the list

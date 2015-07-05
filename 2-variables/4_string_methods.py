@@ -11,7 +11,8 @@ s.find("my")
 
 s.index("country")
 # => 12
-s.index("hello")
+
+# s.index("hello")
 # => Traceback (most recent call last):
 #  	 File "<stdin>", line 1, in <module>
 #    ValueError: substring not found

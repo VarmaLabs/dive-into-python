@@ -8,18 +8,18 @@ name = "Krishnaprasad"
 # underscore between words
 nick_name = "Krishnan"
 
-# Examples
-module_name
-package_name
-ClassName
-method_name
-ExceptionName
-function_name
-GLOBAL_CONSTANT_NAME
-global_var_name
-instance_var_name
-function_parameter_name
-local_var_name
+# Naming Convention
+# module_name
+# package_name
+# ClassName
+# method_name
+# ExceptionName
+# function_name
+# GLOBAL_CONSTANT_NAME
+# global_var_name
+# instance_var_name
+# function_parameter_name
+# local_var_name
 
 # Read more about it here - https://www.python.org/dev/peps/pep-0008/
 
