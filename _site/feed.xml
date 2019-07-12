@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Dive into Python</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://varmalabs.github.io/dive-into-python/feed.xml" />
+<link rel="alternate" type="text/html" href="http://varmalabs.github.io/dive-into-python" />
+<updated>2019-07-12T20:24:59+04:00</updated>
+<id>http://varmalabs.github.io/dive-into-python/</id>
+<author>
+  <name>Krishnaprasad Varma</name>
+  <uri>http://varmalabs.github.io/dive-into-python/</uri>
+  <email>krshnaprsad@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Which version should I learn? (Python 2.x or Python 3.x)]]></title>
+  <link rel="alternate" type="text/html" href="http://varmalabs.github.io/dive-into-python/6-python-2-or-python-3/" />
+  <id>http://varmalabs.github.io/dive-into-python/6-python-2-or-python-3</id>
+  <published>2015-06-27T00:00:00+04:00</published>
+  <updated>2015-06-27T00:00:00+04:00</updated>
+  <author>
+    <name>Krishnaprasad Varma</name>
+    <uri>http://varmalabs.github.io/dive-into-python</uri>
+    <email>krshnaprsad@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;python-2x&quot;&gt;Python 2.x&lt;/h2&gt;
+
+&lt;p&gt;Python 2.0 was released on 16 October 2000, and included many major new features including a full garbage collector and support for Unicode. With this release the development process was changed and became more transparent and community-backed.&lt;/p&gt;
+
+&lt;h2 id=&quot;python-3x&quot;&gt;Python 3.x&lt;/h2&gt;
+
+&lt;p&gt;Python 3.0 (also called Python 3000 or py3k), a major, backwards-incompatible release, was released on 3 December 2008 after a long period of testing. Many of its major features have been backported to the backwards-compatible Python 2.6 and 2.7.&lt;/p&gt;
+
+&lt;table class=&quot;table table-condensed&quot;&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Python 2&lt;/th&gt;	
+		&lt;th&gt;Python 3&lt;/th&gt;	
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Legacy&lt;/td&gt;	
+		&lt;td&gt;The Future&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Permanently in maintenence&lt;/td&gt;	
+		&lt;td&gt;New features will get added&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Modules are made to work with the Python 2.x. &lt;br /&gt; (Some of the features are not portable to Python 3.x.)&lt;/td&gt;	
+		&lt;td&gt;Modules are written for both 2 and 3 &lt;br /&gt;(most of the packages are backward compatible)&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Very limited 3rd party module support &lt;/td&gt;	
+		&lt;td&gt;Abundant 3rd party libraries&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;More Documentation to get started&lt;/td&gt;	
+		&lt;td&gt;You will become an early adopter if you start using it now.&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Most of the machines comes with Python 2.7 installed. (Ubuntu &amp;amp; MAC)&lt;/td&gt;	
+		&lt;td&gt;You need to manually install Python 3.3&lt;/td&gt;	
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Django users will recommend Python 2.x.&lt;/td&gt;	
+		&lt;td&gt;Django now &quot;experimentally&quot; supports Python 3.2&lt;/td&gt;	
+	&lt;/tr&gt;
+	
+&lt;/table&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Your main goal should be just to learn Python. Be it 2.7 or 3.3. Once you get a command over the language, understanding both versions will be a matter of time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It doesn’t really matter whether you use Python 2.7 or Python 3 If you do not use old features in Python 2.7, you can just 2to3 your code to make it run on Python 3.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I would recommend learning Python 3.x if you are a beginner.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*&lt;a href=&quot;https://wiki.python.org/moin/Python2orPython3&quot;&gt;https://wiki.python.org/moin/Python2orPython3&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learntocodewith.me/programming/python/python-2-vs-python-3/&quot;&gt;http://learntocodewith.me/programming/python/python-2-vs-python-3/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://programmers.stackexchange.com/questions/102999/should-we-use-python-2-6-or-2-7-or-3-x&quot;&gt;http://programmers.stackexchange.com/questions/102999/should-we-use-python-2-6-or-2-7-or-3-x&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=f_6vDi7ywuA&quot;&gt;https://www.youtube.com/watch?v=f_6vDi7ywuA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.quora.com/What-are-the-pros-and-cons-of-Python-2-7-6-versus-3-3/answer/Cameron-Macleod?srid=Xl5D&amp;amp;share=1&quot;&gt;http://www.quora.com/What-are-the-pros-and-cons-of-Python-2-7-6-versus-3-3/answer/Cameron-Macleod?srid=Xl5D&amp;amp;share=1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://varmalabs.github.io/dive-into-python/6-python-2-or-python-3/&quot;&gt;Which version should I learn? (Python 2.x or Python 3.x)&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://varmalabs.github.io/dive-into-python&quot;&gt;Dive into Python&lt;/a&gt; on June 27, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Installing Python]]></title>
+  <link rel="alternate" type="text/html" href="http://varmalabs.github.io/dive-into-python/5-installing-python/" />
+  <id>http://varmalabs.github.io/dive-into-python/5-installing-python</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
+  <author>
+    <name>Krishnaprasad Varma</name>
+    <uri>http://varmalabs.github.io/dive-into-python</uri>
+    <email>krshnaprsad@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;linux&quot;&gt;Linux&lt;/h2&gt;
+
+&lt;p&gt;The latest versions of Ubuntu and Fedora come with Python 2.7 out of the box.&lt;/p&gt;
+
+&lt;p&gt;The latest versions of Redhat Enterprise (RHEL) and CentOS come with Python 2.6. Some older versions of RHEL and CentOS come with Python 2.4 which is unacceptable for modern Python development. Fortunately, there are Extra Packages for Enterprise Linux which include high quality additional packages based on their Fedora counterparts. This repository contains a Python 2.6 package specifically designed to install side-by-side with the system’s Python 2.4 installation.&lt;/p&gt;
+
+&lt;p&gt;You do not need to install or configure anything else to use Python. Having said that, I would strongly recommend that you install the tools and libraries described in the next section before you start building Python applications for real-world use. In particular, you should always install Setuptools, as it makes it much easier for you to use other third-party Python libraries.&lt;/p&gt;
+
+&lt;h2 id=&quot;mac&quot;&gt;MAC&lt;/h2&gt;
+
+&lt;p&gt;The latest version of Mac OS X, Yosemite, comes with Python 2.7 out of the box.&lt;/p&gt;
+
+&lt;p&gt;You do not need to install or configure anything else to use Python. Having said that, I would strongly recommend that you install the tools and libraries described in the next section before you start building Python applications for real-world use. In particular, you should always install Setuptools, as it makes it much easier for you to use other third-party Python libraries.&lt;/p&gt;
+
+&lt;p&gt;The version of Python that ships with OS X is great for learning but it’s not good for development. The version shipped with OS X may be out of date from the official current Python release, which is considered the stable production version.&lt;/p&gt;
+
+&lt;h2 id=&quot;windows&quot;&gt;Windows&lt;/h2&gt;
+
+&lt;p&gt;There is a windows python installer which you can download &lt;a href=&quot;https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi&quot;&gt;here&lt;/a&gt;. It comes as an MSI package. Double click the file and it will direct you through the installation steps.&lt;/p&gt;
+
+&lt;p&gt;You will have to be an administrator to install Python on windows.&lt;/p&gt;
+
+&lt;p&gt;You can install multiple python versions on windows. Python by default installs the packages to a folder containing the version.&lt;/p&gt;
+
+&lt;p&gt;For e.g:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;_C:/Python27_
+_C:/Python26_ etc
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You should add &lt;em&gt;C:\Python27&lt;/em&gt; to &lt;strong&gt;PATH&lt;/strong&gt; environment variable if you want Python 2.7 to be set to default.&lt;/p&gt;
+
+&lt;h3 id=&quot;setup-tools-and-pip&quot;&gt;Setup Tools and Pip&lt;/h3&gt;
+
+&lt;p&gt;Starting from Python versions 2.7.9 and 3.4.0, pip is already included in the regular install, see matth’s answer below. Check if the path to the Scripts directory inside your Python installation directory is contained in your system’s PATH environment variable, so pip can be found.&lt;/p&gt;
+
+&lt;h2 id=&quot;installing-python-3&quot;&gt;Installing Python 3&lt;/h2&gt;
+
+&lt;p&gt;You can download the Python 3 package from &lt;a href=&quot;https://www.python.org/downloads/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Many system programs depends on Python 2 and not Python 3. Hence, it is not a good idea to make Python 3 as default.&lt;/p&gt;
+
+&lt;p&gt;You can run a script in Python 3 explicitly.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python3 file.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;It’s not good to change the default python. Many system programs depends on python2 not python3. if you want to use python3, you just type the command python3.&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://docs.python-guide.org/en/latest/starting/install/win/&quot;&gt;http://docs.python-guide.org/en/latest/starting/install/win/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows&quot;&gt;http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://askubuntu.com/questions/320996/make-default-python-command-to-use-python-3&quot;&gt;http://askubuntu.com/questions/320996/make-default-python-command-to-use-python-3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://askubuntu.com/questions/103469/how-do-i-change-my-pythonpath-to-make-3-2-my-default-python-instead-of-2-7-2&quot;&gt;http://askubuntu.com/questions/103469/how-do-i-change-my-pythonpath-to-make-3-2-my-default-python-instead-of-2-7-2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://varmalabs.github.io/dive-into-python/5-installing-python/&quot;&gt;Installing Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://varmalabs.github.io/dive-into-python&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Who is using Python?]]></title>
+  <link rel="alternate" type="text/html" href="http://varmalabs.github.io/dive-into-python/4-who-is-using-python/" />
+  <id>http://varmalabs.github.io/dive-into-python/4-who-is-using-python</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
+  <author>
+    <name>Krishnaprasad Varma</name>
+    <uri>http://varmalabs.github.io/dive-into-python</uri>
+    <email>krshnaprsad@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Instagr.am is built on Python (django)
+Synopsi.tv  is built on Python (django)
+SimpleGeo.com uses Python
+Rdio.com is built on Python (django)
+Disqus.com  is built on Python (django)&lt;/p&gt;
+
+&lt;p&gt;Internet Companies primarily uses Python for development:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Apture&lt;/li&gt;
+  &lt;li&gt;ChoiceVendor (company)&lt;/li&gt;
+  &lt;li&gt;Digg&lt;/li&gt;
+  &lt;li&gt;Disqus&lt;/li&gt;
+  &lt;li&gt;Dropbox&lt;/li&gt;
+  &lt;li&gt;Eventbrite (startup)&lt;/li&gt;
+  &lt;li&gt;FriendFeed&lt;/li&gt;
+  &lt;li&gt;Hunch (startup)&lt;/li&gt;
+  &lt;li&gt;Humble Paper&lt;/li&gt;
+  &lt;li&gt;6waves Lolapps&lt;/li&gt;
+  &lt;li&gt;Lanyrd&lt;/li&gt;
+  &lt;li&gt;Mixpanel&lt;/li&gt;
+  &lt;li&gt;Mochi Media&lt;/li&gt;
+  &lt;li&gt;Mozilla&lt;/li&gt;
+  &lt;li&gt;Nextdoor&lt;/li&gt;
+  &lt;li&gt;Quora&lt;/li&gt;
+  &lt;li&gt;Path (social network)&lt;/li&gt;
+  &lt;li&gt;Pinterest&lt;/li&gt;
+  &lt;li&gt;Raptr&lt;/li&gt;
+  &lt;li&gt;Reddit (website)&lt;/li&gt;
+  &lt;li&gt;Slide (company)&lt;/li&gt;
+  &lt;li&gt;SlideShare&lt;/li&gt;
+  &lt;li&gt;SurveyMonkey&lt;/li&gt;
+  &lt;li&gt;uberVU&lt;/li&gt;
+  &lt;li&gt;Venmo&lt;/li&gt;
+  &lt;li&gt;Votizen&lt;/li&gt;
+  &lt;li&gt;Yelp (product)&lt;/li&gt;
+  &lt;li&gt;YouTube&lt;/li&gt;
+  &lt;li&gt;drchrono&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Python is the primary language for Mozilla websites now. Mozilla is moving 2 of its largest sites (addons.mozilla.org and support.mozilla.com) to Python from PHP.&lt;/p&gt;
+
+&lt;p&gt;Votizen is built almost entirely with Python.&lt;/p&gt;
+
+&lt;p&gt;Prezi (prezi.com) also uses Python as a primary language (website and backend services).&lt;/p&gt;
+
+&lt;p&gt;HubSpot uses a lot of Python.&lt;/p&gt;
+
+&lt;p&gt;Apache Hue (a web application for interacting with Apache Hadoop) by Cloudera is developed using Python(Django framework)&lt;/p&gt;
+
+&lt;p&gt;Pinterest.com is built on Python (django)&lt;/p&gt;
+
+&lt;p&gt;Source : &lt;a href=&quot;http://www.quora.com/Which-Internet-companies-use-Python&quot;&gt;Quora - Internet Companies using Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.python.org/moin/OrganizationsUsingPython&quot;&gt;Organizations Using Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/about/success/&quot;&gt;Python Success Stories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.quora.com/Which-Internet-companies-use-Python&quot;&gt;Quora - Internet Companies using Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;../chapter-02-installation/01-install-python.md&quot;&gt;NEXT » Install Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;03-the-philosophy-of-python.md&quot;&gt;BACK » Python Philosophy - The Zen of Python
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://varmalabs.github.io/dive-into-python/4-who-is-using-python/&quot;&gt;Who is using Python?&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://varmalabs.github.io/dive-into-python&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Philosophy of Python]]></title>
+  <link rel="alternate" type="text/html" href="http://varmalabs.github.io/dive-into-python/3-the-philosophy-of-python/" />
+  <id>http://varmalabs.github.io/dive-into-python/3-the-philosophy-of-python</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
+  <author>
+    <name>Krishnaprasad Varma</name>
+    <uri>http://varmalabs.github.io/dive-into-python</uri>
+    <email>krshnaprsad@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;The Zen of Python, by TimPeters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Beautiful is better than ugly.&lt;/li&gt;
+  &lt;li&gt;Explicit is better than implicit.&lt;/li&gt;
+  &lt;li&gt;Simple is better than complex.&lt;/li&gt;
+  &lt;li&gt;Complex is better than complicated.&lt;/li&gt;
+  &lt;li&gt;Flat is better than nested.&lt;/li&gt;
+  &lt;li&gt;Sparse is better than dense.&lt;/li&gt;
+  &lt;li&gt;Readability counts.&lt;/li&gt;
+  &lt;li&gt;Special cases aren’t special enough to break the rules.&lt;/li&gt;
+  &lt;li&gt;Although practicality beats purity.&lt;/li&gt;
+  &lt;li&gt;Errors should never pass silently.&lt;/li&gt;
+  &lt;li&gt;Unless explicitly silenced.&lt;/li&gt;
+  &lt;li&gt;In the face of ambiguity, refuse the temptation to guess.
+There should be one – and preferably only one – obvious way to - do it.
+Although that way may not be obvious at first unless you’re - Dutch.&lt;/li&gt;
+  &lt;li&gt;Now is better than never.&lt;/li&gt;
+  &lt;li&gt;Although never is often better than &lt;em&gt;right&lt;/em&gt; now.&lt;/li&gt;
+  &lt;li&gt;If the implementation is hard to explain, it’s a bad idea.&lt;/li&gt;
+  &lt;li&gt;If the implementation is easy to explain, it may be a good idea.&lt;/li&gt;
+  &lt;li&gt;Namespaces are one honking great idea – let’s do more of those!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Python was designed to be highly extensible. The core of the language is small but it is supported by the large standard library. The design of Python offers some support for functional programming in the Lisp tradition.&lt;/p&gt;
+
+&lt;p&gt;An important goal of the Python developers is making Python fun to use. This is reflected in the origin of the name which comes from Monty Python,[44] and in an occasionally playful approach to tutorials and reference materials, such as using examples that refer to spam and eggs instead of the standard foo and bar.[&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/dev/peps/pep-0020/&quot;&gt;https://www.python.org/dev/peps/pep-0020/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://c2.com/cgi/wiki?PythonPhilosophy&quot;&gt;http://c2.com/cgi/wiki?PythonPhilosophy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;04-who-is-using-python.md&quot;&gt;NEXT » Who is using Python?
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;02-general-features-of-the-language.md&quot;&gt;BACK » General Features of the Language&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://varmalabs.github.io/dive-into-python/3-the-philosophy-of-python/&quot;&gt;The Philosophy of Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://varmalabs.github.io/dive-into-python&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[General Features of the Language]]></title>
+  <link rel="alternate" type="text/html" href="http://varmalabs.github.io/dive-into-python/2-general-features-of-the-language/" />
+  <id>http://varmalabs.github.io/dive-into-python/2-general-features-of-the-language</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
+  <author>
+    <name>Krishnaprasad Varma</name>
+    <uri>http://varmalabs.github.io/dive-into-python</uri>
+    <email>krshnaprsad@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Python is a general purpose, high level programming language. Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles.&lt;/p&gt;
+
+&lt;p&gt;The design of Python offers some support for functional programming in the Lisp tradition. The language has map(), reduce() and filter() functions; comprehensions for lists, dictionaries, and sets; and generator expressions.[39] The standard library has two modules (itertools and functools) that implement functional tools borrowed from Haskell and Standard ML.[40]&lt;/p&gt;
+
+&lt;h2 id=&quot;dynamic-typing&quot;&gt;Dynamic Typing&lt;/h2&gt;
+
+&lt;p&gt;Python is a dynamically typed language where every variable name is bound only to an object. Hence it is possible to bind a name to objects of different types at runtime.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Python&lt;/strong&gt;
+  author = ‘Krishnan’ # the name ‘author’ is now a name for the string ‘Krishnan’
+  author = 100&lt;/p&gt;
+
+&lt;p&gt;The name ‘author’ stops being a name for the string ‘Krishnan’, and starts being a name for the integer 100&lt;/p&gt;
+
+&lt;p&gt;This is as against the statically typed language where every variable name is bound with both a type and an object. An exception will be thrown when the varialbe name is tried to bound with an object of a different type.&lt;/p&gt;
+
+&lt;!-- FIXME Display the output of the Java program --&gt;
+
+&lt;p&gt;&lt;strong&gt;Java&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;int marks       // Declares the integer varialbe named marks
+  int marks = 89 // Assigns the value 89 to the variable marks&lt;/p&gt;
+
+&lt;p&gt;int marks = ‘Hello’ // Throws Error as the type doesn’t match&lt;/p&gt;
+
+&lt;h2 id=&quot;automatic-memmory-management-garbage-collection&quot;&gt;Automatic Memmory Management (Garbage Collection)&lt;/h2&gt;
+
+&lt;p&gt;Most of the users are familiar with C’s malloc and calloc fo preallocating and deallocating memmory. Python does all this by itself. Python’s memory allocation and deallocation method is automatic.&lt;/p&gt;
+
+&lt;p&gt;Python uses two strategies for memory allocation reference counting and garbage collection. Reference counting works by counting the number of times an object is referenced by other objects in the system. When references to an object are removed, the reference count for an object is decremented. When the reference count becomes zero the object is deallocated.&lt;/p&gt;
+
+&lt;p&gt;Reference cycles are complex and take computational work to discover. Hence Garbage Collection must be a scheduled activity. Python schedules garbage collection based upon a threshold of object allocations and object deallocations. When the number of allocations minus the number of deallocations are greater than the threshold number, the garbage collector is run.&lt;/p&gt;
+
+&lt;h2 id=&quot;large-standard-library&quot;&gt;Large Standard Library&lt;/h2&gt;
+
+&lt;p&gt;Python’s Standard library contains built-in modules which are written in C that provide access to system functionality such as file I/O. It also contains modules written in Python that provide standardized solutions for many problems that occur in everyday programming.&lt;/p&gt;
+
+&lt;p&gt;You can get a better idea of python standard library &lt;a href=&quot;https://docs.python.org/3/library/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;compiled-to-bytecode-and-bytecode-intepreted&quot;&gt;Compiled to bytecode and bytecode Intepreted&lt;/h2&gt;
+
+&lt;p&gt;C is a compiled language, as you need to compile to source code before you can execute it. Compilation depends on the machine architecture.&lt;/p&gt;
+
+&lt;p&gt;A language like ruby is an intepreted language, as every line of code in ruby is intepreted at the run time.&lt;/p&gt;
+
+&lt;p&gt;So, what about Python ? Is it compiled or intepreted?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Python will fall under byte code interpreted. .py source code is first compiled to byte code as .pyc. This byte code can be interpreted (official CPython), or JIT compiled (PyPy). Python source code (.py) can be compiled to different byte code also like IronPython (.Net) or Jython (JVM)&lt;/strong&gt;. - source: google.com&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The .pyc files you see are byte code for the Python virtual machine (similar to Java’s .class files). They are not the same as the machine code generated by a C compiler for a native machine architecture. Some Python implementations, however, do consist of a just-in-time compiler that will compile Python byte code into native machine code.&lt;/strong&gt; - source: stackoverflow, user: mipadi, url: http://programmers.stackexchange.com/questions/24558/is-python-interpreted-or-compiled&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://programmers.stackexchange.com/questions/24558/is-python-interpreted-or-compiled&quot;&gt;http://programmers.stackexchange.com/questions/24558/is-python-interpreted-or-compiled&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://pythonconquerstheuniverse.wordpress.com/2009/10/03/static-vs-dynamic-typing-of-programming-languages/&quot;&gt;https://pythonconquerstheuniverse.wordpress.com/2009/10/03/static-vs-dynamic-typing-of-programming-languages/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://wiki.python.org/moin/Why%20is%20Python%20a%20dynamic%20language%20and%20also%20a%20strongly%20typed%20language&quot;&gt;https://wiki.python.org/moin/Why%20is%20Python%20a%20dynamic%20language%20and%20also%20a%20strongly%20typed%20language&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.secnetix.de/olli/Python/dynamic_typing.hawk&quot;&gt;http://www.secnetix.de/olli/Python/dynamic_typing.hawk&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.digi.com/wiki/developer/index.php/Python_Garbage_Collection&quot;&gt;https://www.digi.com/wiki/developer/index.php/Python_Garbage_Collection&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;03-the-philosophy-of-python.md&quot;&gt;NEXT » Python Philosophy - The Zen of Python
+&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;01-a-brief-history-of-python.md&quot;&gt;BACK » A Brief history of Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://varmalabs.github.io/dive-into-python/2-general-features-of-the-language/&quot;&gt;General Features of the Language&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://varmalabs.github.io/dive-into-python&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Brief history of Python]]></title>
+  <link rel="alternate" type="text/html" href="http://varmalabs.github.io/dive-into-python/1-a-brief-history-of-python/" />
+  <id>http://varmalabs.github.io/dive-into-python/1-a-brief-history-of-python</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
+  <author>
+    <name>Krishnaprasad Varma</name>
+    <uri>http://varmalabs.github.io/dive-into-python</uri>
+    <email>krshnaprsad@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Python was created by &lt;a href=&quot;https://en.wikipedia.org/wiki/Guido_van_Rossum&quot;&gt;Guido van Rossum&lt;/a&gt; at CWI was originally developed for the Amoeba platform. &lt;a href=&quot;amoeba&quot;&gt;Amoeba&lt;/a&gt; is a distributed operating system developed by Andrew S. Tanenbaum and others at the Vrije University.&lt;/p&gt;
+
+&lt;p&gt;Van Rossum being Python’s principal author, continues to be in central role deciding the direction of Python.
+He is conferred a title &lt;em&gt;benevolent dictator for life (BDFL)&lt;/em&gt; by the Python community.&lt;/p&gt;
+
+&lt;p&gt;Python 1.0 was released in January 1994. The major new features included in this release were the functional programming tools lambda, map, filter and reduce, which Guido Van Rossum never liked.&lt;/p&gt;
+
+&lt;p&gt;Python 2.0 was released on 16 October 2000, and included many major new features including a full garbage collector and support for Unicode. With this release the development process was changed and became more transparent and community-backed.&lt;/p&gt;
+
+&lt;p&gt;Python 3.0 (also called Python 3000 or py3k), a major, backwards-incompatible release, was released on 3 December 2008 after a long period of testing. Many of its major features have been backported to the backwards-compatible Python 2.6 and 2.7.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://python-history.blogspot.in/2009/01/pythons-design-philosophy.html&quot;&gt;A Blog Article by Guido van Rossum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/History_of_Python&quot;&gt;Wikipedia - History of Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.python-course.eu/python3_history_and_philosophy.php&quot;&gt;python-course.eu - Python History&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://varmalabs.github.io/dive-into-python/1-a-brief-history-of-python/&quot;&gt;A Brief history of Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://varmalabs.github.io/dive-into-python&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>

@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4001/sitemap.xml
+Sitemap: http://varmalabs.github.io/dive-into-python/sitemap.xml
