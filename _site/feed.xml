@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">kpvarma.com</title>
+<title type="text">Dive into Python</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2015-06-30T14:34:30+05:30</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4001/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4001" />
+<updated>2019-07-12T20:21:24+04:00</updated>
+<id>http://localhost:4001/</id>
 <author>
   <name>Krishnaprasad Varma</name>
-  <uri>/</uri>
+  <uri>http://localhost:4001/</uri>
   <email>krshnaprsad@gmail.com</email>
 </author>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Which version should I learn? (Python 2.x or Python 3.x)]]></title>
-  <link rel="alternate" type="text/html" href="/6-python-2-or-python-3/" />
-  <id>/6-python-2-or-python-3</id>
-  <published>2015-06-27T00:00:00+05:30</published>
-  <updated>2015-06-27T00:00:00+05:30</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4001/6-python-2-or-python-3/" />
+  <id>http://localhost:4001/6-python-2-or-python-3</id>
+  <published>2015-06-27T00:00:00+04:00</published>
+  <updated>2015-06-27T00:00:00+04:00</updated>
   <author>
     <name>Krishnaprasad Varma</name>
-    <uri></uri>
+    <uri>http://localhost:4001</uri>
     <email>krshnaprsad@gmail.com</email>
   </author>
   <content type="html">
@@ -91,28 +89,28 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;*&lt;a href=&quot;https://wiki.python.org/moin/Python2orPython3&quot;&gt;https://wiki.python.org/moin/Python2orPython3&lt;/a&gt;
-* &lt;a href=&quot;http://learntocodewith.me/programming/python/python-2-vs-python-3/&quot;&gt;http://learntocodewith.me/programming/python/python-2-vs-python-3/&lt;/a&gt;
-* &lt;a href=&quot;http://programmers.stackexchange.com/questions/102999/should-we-use-python-2-6-or-2-7-or-3-x&quot;&gt;http://programmers.stackexchange.com/questions/102999/should-we-use-python-2-6-or-2-7-or-3-x&lt;/a&gt;
-* &lt;a href=&quot;https://www.youtube.com/watch?v=f_6vDi7ywuA&quot;&gt;https://www.youtube.com/watch?v=f_6vDi7ywuA&lt;/a&gt;
-* &lt;a href=&quot;http://www.quora.com/What-are-the-pros-and-cons-of-Python-2-7-6-versus-3-3/answer/Cameron-Macleod?srid=Xl5D&amp;amp;share=1&quot;&gt;http://www.quora.com/What-are-the-pros-and-cons-of-Python-2-7-6-versus-3-3/answer/Cameron-Macleod?srid=Xl5D&amp;amp;share=1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;*&lt;a href=&quot;https://wiki.python.org/moin/Python2orPython3&quot;&gt;https://wiki.python.org/moin/Python2orPython3&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learntocodewith.me/programming/python/python-2-vs-python-3/&quot;&gt;http://learntocodewith.me/programming/python/python-2-vs-python-3/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://programmers.stackexchange.com/questions/102999/should-we-use-python-2-6-or-2-7-or-3-x&quot;&gt;http://programmers.stackexchange.com/questions/102999/should-we-use-python-2-6-or-2-7-or-3-x&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=f_6vDi7ywuA&quot;&gt;https://www.youtube.com/watch?v=f_6vDi7ywuA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.quora.com/What-are-the-pros-and-cons-of-Python-2-7-6-versus-3-3/answer/Cameron-Macleod?srid=Xl5D&amp;amp;share=1&quot;&gt;http://www.quora.com/What-are-the-pros-and-cons-of-Python-2-7-6-versus-3-3/answer/Cameron-Macleod?srid=Xl5D&amp;amp;share=1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/6-python-2-or-python-3/&quot;&gt;Which version should I learn? (Python 2.x or Python 3.x)&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;&quot;&gt;kpvarma.com&lt;/a&gt; on June 27, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4001/6-python-2-or-python-3/&quot;&gt;Which version should I learn? (Python 2.x or Python 3.x)&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://localhost:4001&quot;&gt;Dive into Python&lt;/a&gt; on June 27, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Installing Python]]></title>
-  <link rel="alternate" type="text/html" href="/5-installing-python/" />
-  <id>/5-installing-python</id>
-  <published>2015-06-26T00:00:00+05:30</published>
-  <updated>2015-06-26T00:00:00+05:30</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4001/5-installing-python/" />
+  <id>http://localhost:4001/5-installing-python</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
   <author>
     <name>Krishnaprasad Varma</name>
-    <uri></uri>
+    <uri>http://localhost:4001</uri>
     <email>krshnaprsad@gmail.com</email>
   </author>
   <content type="html">
@@ -142,9 +140,9 @@
 
 &lt;p&gt;For e.g:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;_C:/Python27_
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;_C:/Python27_
 _C:/Python26_ etc
-&lt;/code&gt;&lt;/pre&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;You should add &lt;em&gt;C:\Python27&lt;/em&gt; to &lt;strong&gt;PATH&lt;/strong&gt; environment variable if you want Python 2.7 to be set to default.&lt;/p&gt;
 
@@ -160,8 +158,8 @@ _C:/Python26_ etc
 
 &lt;p&gt;You can run a script in Python 3 explicitly.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;python3 file.py
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python3 file.py
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;It’s not good to change the default python. Many system programs depends on python2 not python3. if you want to use python3, you just type the command python3.&lt;/p&gt;
 
@@ -174,22 +172,20 @@ _C:/Python26_ etc
   &lt;li&gt;&lt;a href=&quot;http://askubuntu.com/questions/103469/how-do-i-change-my-pythonpath-to-make-3-2-my-default-python-instead-of-2-7-2&quot;&gt;http://askubuntu.com/questions/103469/how-do-i-change-my-pythonpath-to-make-3-2-my-default-python-instead-of-2-7-2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/5-installing-python/&quot;&gt;Installing Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;&quot;&gt;kpvarma.com&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4001/5-installing-python/&quot;&gt;Installing Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://localhost:4001&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Who is using Python?]]></title>
-  <link rel="alternate" type="text/html" href="/4-who-is-using-python/" />
-  <id>/4-who-is-using-python</id>
-  <published>2015-06-26T00:00:00+05:30</published>
-  <updated>2015-06-26T00:00:00+05:30</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4001/4-who-is-using-python/" />
+  <id>http://localhost:4001/4-who-is-using-python</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
   <author>
     <name>Krishnaprasad Varma</name>
-    <uri></uri>
+    <uri>http://localhost:4001</uri>
     <email>krshnaprsad@gmail.com</email>
   </author>
   <content type="html">
@@ -263,22 +259,20 @@ Disqus.com  is built on Python (django)&lt;/p&gt;
 &lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/4-who-is-using-python/&quot;&gt;Who is using Python?&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;&quot;&gt;kpvarma.com&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4001/4-who-is-using-python/&quot;&gt;Who is using Python?&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://localhost:4001&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[The Philosophy of Python]]></title>
-  <link rel="alternate" type="text/html" href="/3-the-philosophy-of-python/" />
-  <id>/3-the-philosophy-of-python</id>
-  <published>2015-06-26T00:00:00+05:30</published>
-  <updated>2015-06-26T00:00:00+05:30</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4001/3-the-philosophy-of-python/" />
+  <id>http://localhost:4001/3-the-philosophy-of-python</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
   <author>
     <name>Krishnaprasad Varma</name>
-    <uri></uri>
+    <uri>http://localhost:4001</uri>
     <email>krshnaprsad@gmail.com</email>
   </author>
   <content type="html">
@@ -325,22 +319,20 @@ Although that way may not be obvious at first unless you’re - Dutch.&lt;/li&gt
   &lt;li&gt;&lt;a href=&quot;02-general-features-of-the-language.md&quot;&gt;BACK » General Features of the Language&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/3-the-philosophy-of-python/&quot;&gt;The Philosophy of Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;&quot;&gt;kpvarma.com&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4001/3-the-philosophy-of-python/&quot;&gt;The Philosophy of Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://localhost:4001&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[General Features of the Language]]></title>
-  <link rel="alternate" type="text/html" href="/2-general-features-of-the-language/" />
-  <id>/2-general-features-of-the-language</id>
-  <published>2015-06-26T00:00:00+05:30</published>
-  <updated>2015-06-26T00:00:00+05:30</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4001/2-general-features-of-the-language/" />
+  <id>http://localhost:4001/2-general-features-of-the-language</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
   <author>
     <name>Krishnaprasad Varma</name>
-    <uri></uri>
+    <uri>http://localhost:4001</uri>
     <email>krshnaprsad@gmail.com</email>
   </author>
   <content type="html">
@@ -423,22 +415,20 @@ Although that way may not be obvious at first unless you’re - Dutch.&lt;/li&gt
   &lt;li&gt;&lt;a href=&quot;01-a-brief-history-of-python.md&quot;&gt;BACK » A Brief history of Python&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/2-general-features-of-the-language/&quot;&gt;General Features of the Language&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;&quot;&gt;kpvarma.com&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4001/2-general-features-of-the-language/&quot;&gt;General Features of the Language&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://localhost:4001&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[A Brief history of Python]]></title>
-  <link rel="alternate" type="text/html" href="/1-a-brief-history-of-python/" />
-  <id>/1-a-brief-history-of-python</id>
-  <published>2015-06-26T00:00:00+05:30</published>
-  <updated>2015-06-26T00:00:00+05:30</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4001/1-a-brief-history-of-python/" />
+  <id>http://localhost:4001/1-a-brief-history-of-python</id>
+  <published>2015-06-26T00:00:00+04:00</published>
+  <updated>2015-06-26T00:00:00+04:00</updated>
   <author>
     <name>Krishnaprasad Varma</name>
-    <uri></uri>
+    <uri>http://localhost:4001</uri>
     <email>krshnaprsad@gmail.com</email>
   </author>
   <content type="html">
@@ -461,7 +451,7 @@ He is conferred a title &lt;em&gt;benevolent dictator for life (BDFL)&lt;/em&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.python-course.eu/python3_history_and_philosophy.php&quot;&gt;python-course.eu - Python History&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/1-a-brief-history-of-python/&quot;&gt;A Brief history of Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;&quot;&gt;kpvarma.com&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4001/1-a-brief-history-of-python/&quot;&gt;A Brief history of Python&lt;/a&gt; was originally published by Krishnaprasad Varma at &lt;a href=&quot;http://localhost:4001&quot;&gt;Dive into Python&lt;/a&gt; on June 26, 2015.&lt;/p&gt;
   </content>
 </entry>
 
