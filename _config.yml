@@ -1,0 +1,60 @@
+# Site wide configuration
+
+title:            Dive into Python
+locale:           en_US
+url:              http://varmalabs.github.io/dive-into-python
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+# Site owner
+owner:
+  name: Krishnaprasad Varma
+  avatar: krishnaprasad-varma.jpg
+  bio: "Programmer, Ruby Enthusiast, Gopher interested in Python & Javascript. Recently developed an interest in Gardening."
+  email: krshnaprsad@gmail.com
+  disqus-shortname: kpvarma
+  twitter: kpvarma
+  facebook: krishnaprasadvarma
+  google:
+    plus: krshnaprsad
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: kpvarma
+  stackoverflow: https://stackoverflow.com/users/499097/krishnaprasad-varma
+  linkedin: krishnaprasadvarma
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
